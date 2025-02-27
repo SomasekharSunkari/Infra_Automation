@@ -23,5 +23,5 @@ This project automates the creation of infrastructure using Terraform and sets u
 ## Getting Started
 To get started with the project, clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/SomasekharSunkari/Infra_Automation.git
+cd Infra_Automation
