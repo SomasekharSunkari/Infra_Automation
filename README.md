@@ -19,12 +19,6 @@ This project automates the creation of infrastructure using Terraform and sets u
 - Scalability and reproducibility of environments.
 - Simple and modular structure for easy modifications.
 
-## Prerequisites
-Before you begin, ensure you have met the following requirements:
-- [Terraform](https://www.terraform.io/downloads.html) installed on your local machine.
-- [Ansible](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html) installed on your local machine.
-- Access to a cloud provider (AWS, GCP, Azure, etc.) and appropriate credentials.
-- A GitHub account for version control.
 
 ## Getting Started
 To get started with the project, clone the repository to your local machine:
